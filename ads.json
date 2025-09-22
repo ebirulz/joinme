@@ -2,7 +2,7 @@
   "ads": [
     {
       "id": "ad1",
-      "image_url": "https://example.com/images/premium_ad.jpg",
+      "image_url": "https://raw.githubusercontent.com/ebirulz/joinme/main/along_banner.png",
       "title": "Upgrade to Premium",
       "description": "Get unlimited access to all features with our premium subscription.",
       "button_text": "Upgrade Now",
@@ -11,7 +11,7 @@
     },
     {
       "id": "ad2",
-      "image_url": "https://example.com/images/referral_ad.jpg",
+      "image_url": "https://raw.githubusercontent.com/ebirulz/joinme/main/along_banner.png",
       "title": "Invite Friends",
       "description": "Invite your friends and get 1 month of premium features for free!",
       "button_text": "Invite Now",
@@ -20,7 +20,7 @@
     },
     {
       "id": "ad3",
-      "image_url": "https://example.com/images/new_features.jpg",
+      "image_url": "https://raw.githubusercontent.com/ebirulz/joinme/main/along_banner.png",
       "title": "New Features",
       "description": "Check out our latest features including group video calls and animated stickers.",
       "button_text": "Learn More",
