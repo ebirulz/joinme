@@ -1,0 +1,31 @@
+{
+  "ads": [
+    {
+      "id": "ad1",
+      "image_url": "https://example.com/images/premium_ad.jpg",
+      "title": "Upgrade to Premium",
+      "description": "Get unlimited access to all features with our premium subscription.",
+      "button_text": "Upgrade Now",
+      "action_url": "https://ushapu.com/premium",
+      "is_active": true
+    },
+    {
+      "id": "ad2",
+      "image_url": "https://example.com/images/referral_ad.jpg",
+      "title": "Invite Friends",
+      "description": "Invite your friends and get 1 month of premium features for free!",
+      "button_text": "Invite Now",
+      "action_url": "https://ushapu.com/invite",
+      "is_active": true
+    },
+    {
+      "id": "ad3",
+      "image_url": "https://example.com/images/new_features.jpg",
+      "title": "New Features",
+      "description": "Check out our latest features including group video calls and animated stickers.",
+      "button_text": "Learn More",
+      "action_url": "https://ushapu.com/features",
+      "is_active": false
+    }
+  ]
+}
